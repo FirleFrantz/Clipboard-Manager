@@ -1,58 +1,58 @@
 {
     "SELECTLANG": {
-        "en": "Select your language.",
+        "de": "Wähle deine Sprache",
         "ko": "언어를 선택하세요."
     },
     "SELECTMENU": {
-        "en": "Select an item to work on.",
+        "de": "Wählen Sie ein Element aus, an dem Sie arbeiten möchten.",
         "ko": "작업할 항목을 선택하세요."
     },
     "SELECTITEM": {
-        "en": "Select an item to copy.",
+        "de": "Wählen Sie ein Element zum Kopieren aus.",
         "ko": "복사할 항목을 선택하세요."
     },
     "DELETEITEMS": {
-        "en": "Select items to delete.",
+        "de": "Wählen Sie die zu löschenden Elemente aus.",
         "ko": "삭제할 항목들을 선택하세요."
     },
     "VERSIONNOTMATCH": {
-        "en": "Cannot completed because the version not match.",
+        "de": "Kann nicht abgeschlossen werden, da die Version nicht übereinstimmt.",
         "ko": "버전이 달라 작업을 완료할 수 없습니다."
     },
     "NOITEMSCOPY": {
-        "en": "No items to copy.",
+        "de": "Keine Elemente zum Kopieren vorhanden.",
         "ko": "복사할 항목이 없습니다."
     },
     "NOITEMSDELETE": {
-        "en": "No items to delete.",
+        "de": "Keine Elemente zum Löschen.",
         "ko": "삭제할 항목이 없습니다."
     },
     "SAVE": {
-        "en": "Save Clipboard",
+        deen": "Zwischenablage speichern",
         "ko": "저장하기"
     },
     "SHOWLIST": {
-        "en": "Show List",
+        "de": "Liste anzeigen",
         "ko": "가져오기"
     },
     "SHOWALL": {
-        "en": "Show All items",
+        "de": "Alle Artikel anzeigen",
         "ko": "전체보기"
     },
     "DELETE": {
-        "en": "Delete List",
+        "de": "Liste löschent",
         "ko": "삭제하기"
     },
     "DELETESELECT": {
-        "en": "Delete Selections",
+        "de": "Auswahl löschen",
         "ko": "선택 삭제"
     },
     "DELETEALL": {
-        "en": "Delete All",
+        "de": "Alles löschen",
         "ko": "전체 삭제"
     },
     "CANCEL": {
-        "en": "Cancel",
+        "de": "Abbrechen",
         "ko": "취소하기"
     }
 }
